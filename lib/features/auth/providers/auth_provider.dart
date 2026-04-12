@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:firebase_messaging/firebase_messaging.dart';
+import 'package:fitness_management_app/config/secrets.dart';
 import 'package:fitness_management_app/features/auth/repository/auth_repository.dart';
 import 'package:fitness_management_app/features/notification/services/notification_api_services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -8,7 +9,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 
 // Single shared GoogleSignIn instance — industry standard
 final _googleSignIn = GoogleSignIn(
-  serverClientId: '1023538609736-kaakrb6nvjrrnmfaujgja2a6mvmtlcoq.apps.googleusercontent.com',
+  serverClientId: googleServerClientId
 );
 
 class AuthState {
