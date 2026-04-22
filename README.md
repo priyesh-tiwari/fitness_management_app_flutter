@@ -3,14 +3,126 @@
 The Flutter frontend for **FitTrack**, a dual-role fitness management app for Trainers and Users. Book sessions, track attendance via QR codes, manage fitness programs, and get AI-powered fitness analysis.
 
 > 🔗 Backend Repository: [fitness_management_app_node](https://github.com/priyesh-tiwari/fitness_management_app_node_backend)
-> 📹 Demo Video: [Watch on Google Drive](https://drive.google.com/drive/folders/1Fgwe9mJrx1LMqnw-V07YIWmWLXGMshsn?usp=sharing)
+## 📱 Demo Video
+
+> 🎬 Watch the full app walkthrough here — recommended since some features may not work in the APK due to Render free tier limitations.
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1Fgwe9mJrx1LMqnw-V07YIWmWLXGMshsn?usp=sharing)
 
 ---
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-> _Add screenshots here_
+<details>
+<summary><b>🛬 Landing & Onboarding — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/landing_01.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/landing_03.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/landing_04.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/terms_condition.jpg" width="180" hspace="6"/>
+</p>
+</details>
 
+<details>
+<summary><b>🔐 Authentication — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/login.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/email.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/otp.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/create_password.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="fitnessapp_screenshot/name.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/username.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/add_profile.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>🏠 Home & Navigation — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/home.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/user_home_view.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/trainer_home.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/drawer_bar.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="fitnessapp_screenshot/logout_card.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/notification.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>🏋️ Programs & Sessions — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/fitness_programs.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/program_detail.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/create_program.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/program_subscribers.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>💳 Payment & Subscription — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/payment.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/payment_01.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/subscription_activated.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/my_subscription.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>📲 QR Attendance — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/qr_code.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/qr_scan.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/weekly_attendance.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>📊 Activity & Goals — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/daily_activity.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/daily_activity_01.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/log_exercise.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/update_daily_goals.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="fitnessapp_screenshot/weekly_activity_analysis.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/monthly_activity_analysis.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/goals_notification.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/sleep_time.jpg" width="180" hspace="6"/>
+</p>
+<p align="center">
+  <img src="fitnessapp_screenshot/meditation_card.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>🤖 AI Fitness Analysis — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/ai_insight.jpg" width="180" hspace="6"/>
+  <img src="fitnessapp_screenshot/generated_ai_insights.jpg" width="180" hspace="6"/>
+</p>
+</details>
+
+<details>
+<summary><b>👤 Profile — click to view</b></summary>
+<br/>
+<p align="center">
+  <img src="fitnessapp_screenshot/profile.jpg" width="180" hspace="6"/>
+</p>
+</details>
 ---
 
 ## ✨ Features
