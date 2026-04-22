@@ -2,7 +2,7 @@
 
 The Flutter frontend for **FitTrack**, a dual-role fitness management app for Trainers and Users. Book sessions, track attendance via QR codes, manage fitness programs, and get AI-powered fitness analysis.
 
-> 🔗 Backend Repository: [fitness_management_app_node](https://github.com/priyesh-tiwari/fitness_management_app_node)
+> 🔗 Backend Repository: [fitness_management_app_node](https://github.com/priyesh-tiwari/fitness_management_app_node_backend)
 > 📹 Demo Video: [Watch on Google Drive](https://drive.google.com/drive/folders/1Fgwe9mJrx1LMqnw-V07YIWmWLXGMshsn?usp=sharing)
 
 ---
